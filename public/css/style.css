@@ -1,16 +1,8 @@
-*{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 body {
-
-  background-color: rgb(122, 237, 224);
-
+font-family: sans-serif;
+background: white;
 }
-h1{
-text-align: center;
-font-weight: bold;
-}
-.Todo-Item:hover .trash {
-  display: block;
+
+.Todo-Item:hover .trash-icon{
+  display:block;
 }
